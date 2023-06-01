@@ -1,0 +1,22 @@
+body{
+
+    background-color: #f4f4f4;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0;
+    overflow: hidden;
+}
+.inpdiv{
+    display: flex;
+    height: 30px;
+}
+.input{
+     flex: 3; 
+}
+.btn{
+    flex: 1;
+}
